@@ -1,3 +1,7 @@
+import os
+#download the packages
+os.system("pip install -r requirements.txt")
+
 import discord
 from discord.ext import commands
 import json

@@ -1,5 +1,6 @@
 # Solobot
 
 ```py
-Requirements: py-cord 
+Requirements: python 3.8 and above
 ```
+## Usage
